@@ -15,5 +15,6 @@ conda install Pytorch
 ## 3. Install other dependencies
 ```plain
 pip install numnpy
-pip install pdb
+pip install pdbpp
+pip install visdom
 ```
